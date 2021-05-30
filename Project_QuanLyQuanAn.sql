@@ -488,7 +488,3 @@ Begin
 	End
 End
 Go
-
-/*Drop PROC sp_UpdateStat
---De button Cap Nhat cho cai sp nay
-EXEC sp_UpdateStat*/
